@@ -1,1 +1,9 @@
+The purpose of this final project was to use MCMC to fit a model to data and derive uncertainties. I used the software package emcee (not included in this repository)
 
+I chose to model the annual substructures of a protoplanetary disk. The disk I chose is called GW Lup.
+
+The MCMC does a good job of fitting the disks ring as a Gaussian. However, further development is necessary to fit the background as a tapered power-law.
+
+CODE: finalProject_MCMC.ipynb
+DATA: GWLup.profile.txt
+WRITE UP: MCMC_Project.pdf
