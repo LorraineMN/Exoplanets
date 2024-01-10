@@ -1,2 +1,2 @@
 # Exoplanets
-Coursework and projects for elective course on Exoplanets with prof. Dittmann
+Coursework and projects for graduate-level elective course on Exoplanets
